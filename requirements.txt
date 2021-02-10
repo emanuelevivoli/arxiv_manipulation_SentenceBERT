@@ -1,0 +1,22 @@
+# conda create -n arxiv_embedSim_SenTransformer
+# pip install -r requirements.txt
+
+# base ----------------------------------------
+Cython
+numpy
+cuda
+torch
+sentence-transformers 
+
+# model
+simpletransformers
+tensorboard
+
+# plotting ------------------------------------
+pandas
+
+# logging -------------------------------------
+
+# export --------------------------------------
+
+# extras --------------------------------------
